@@ -1,0 +1,5 @@
+cancer,n_patients,n_mutations
+HNSC,523,1437
+LUAD,566,1362
+BRCA,1084,1716
+COAD,594,2483
