@@ -1,3 +1,13 @@
+---
+title: TCGA Survival Explorer
+emoji: 🧬
+colorFrom: blue
+colorTo: green
+sdk: gradio
+app_file: app/gradio_app.py
+pinned: false
+license: mit
+---
 # TCGA Pan-Cancer Survival & Genomic Biomarker Explorer
 
 Multi-cancer survival prediction integrating clinical and genomic features from The Cancer Genome Atlas (TCGA), with explainable AI to identify cancer-type-specific genomic biomarkers driving patient outcomes.
